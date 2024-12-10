@@ -1,5 +1,7 @@
 # Pattern Problems Guide 🖼️
 
+![pattern-image](https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm0qrbshsi1zh42w6dtha.png)
+
 Welcome to the **Pattern Problems Guide**! This section focuses on solving and practicing various pattern-related problems in JavaScript. By the end of this series, you'll have solved 21 fundamental and advanced pattern problems to enhance your problem-solving skills.
 
 ---

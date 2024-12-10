@@ -1,5 +1,7 @@
 # DSA Learning Journey 🚀
 
+![dsa-image](https://miro.medium.com/v2/resize:fit:1107/1*eiqy11RfyotD5dn3bEOQsg.jpeg)
+
 Welcome to my DSA learning journey repository! This project is a curated guide for understanding and practicing Data Structures and Algorithms with code, patterns, and examples.
 
 ## Table of Contents 📖
@@ -23,9 +25,9 @@ This repository serves as a step-by-step guide for improving problem-solving ski
 
 ## Pattern Problems 🟡
 
-| Problem No. | Description                  | File Link                                 | Status      |
-| ----------- | ---------------------------- | ----------------------------------------- | ----------- |
-| 1           | Print a 4x4 pattern of stars | [01_pattern.js](./patterns/01_pattern.js) | ✅ Complete |
+| Problem No. | Description                  | File Link                                         | Status      |
+| ----------- | ---------------------------- | ------------------------------------------------- | ----------- |
+| 1           | Print a 4x4 pattern of stars | [01_pattern.js](/strivers/patterns/01_pattern.js) | ✅ Complete |
 
 ---
 
@@ -38,7 +40,7 @@ This repository serves as a step-by-step guide for improving problem-solving ski
    cd DSA-Learning-Journey
    ```
 
-2. Open the `patterns/index.html` file in your browser to view the solutions visually.
+2. Open the `strivers/patterns/index.html` file in your browser to view the solutions visually.
 
 3. Explore individual `.js` files for step-by-step explanations.
 
@@ -46,11 +48,11 @@ This repository serves as a step-by-step guide for improving problem-solving ski
 
 ## Tracking Progress ✅
 
-| Topics Covered       | Status         |
-| -------------------- | -------------- |
-| Patterns             | ✅ Done        |
-| Sorting Algorithms   | ⬜ In Progress |
-| Searching Algorithms | ⬜ Pending     |
+| Topics Covered       | Status     |
+| -------------------- | ---------- |
+| Patterns             | ✅ Done    |
+| Sorting Algorithms   | ⬜ Pending |
+| Searching Algorithms | ⬜ Pending |
 
 ---
 
