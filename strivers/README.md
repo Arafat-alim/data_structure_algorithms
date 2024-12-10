@@ -92,21 +92,3 @@ Feel free to contribute by:
 Thanks to all the coding resources, problem sets, and guides that inspired these patterns.
 
 ---
-
-### **Key Features in the README**
-
-1. **Table of Contents:** Links to 21 pattern problems with descriptions.
-2. **Progress Tracker:** Shows current progress visually.
-3. **Why Patterns?** Explains the importance of practicing pattern problems.
-4. **Contributing Section:** Encourages collaboration.
-5. **Detailed Problem Listings:** Each problem links to its `.js` file.
-
-### **Next Steps**
-
-1. Replace `<your-username>` with your GitHub username in the clone URL.
-2. Add solutions to files incrementally and update the tracker in the README.
-3. Commit and push to GitHub!
-
-```
-
-```
