@@ -14,7 +14,7 @@
 function pattern1(outerLoop, innerLoop) {
   for (let i = 0; i < outerLoop; i++) {
     for (let j = 0; j < innerLoop; j++) {
-      document.write("*");
+      document.write("* ");
     }
     document.write("<br/>");
   }
